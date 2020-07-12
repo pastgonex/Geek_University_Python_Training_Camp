@@ -3,9 +3,11 @@
     <words>
       <w>atag</w>
       <w>bdffdc</w>
+      <w>chromedriver</w>
       <w>dgoogle</w>
       <w>douban</w>
       <w>getdetailsagain</w>
+      <w>httpbin</w>
       <w>itemreviewed</w>
       <w>khtml</w>
       <w>lxml</w>
@@ -15,9 +17,12 @@
       <w>mylist</w>
       <w>myurl</w>
       <w>newspider</w>
+      <w>pymysql</w>
       <w>robotstxt</w>
       <w>scrapy</w>
       <w>sectl</w>
+      <w>sqls</w>
+      <w>testuser</w>
     </words>
   </dictionary>
 </component>

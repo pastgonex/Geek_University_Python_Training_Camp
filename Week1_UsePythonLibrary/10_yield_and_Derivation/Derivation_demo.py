@@ -15,7 +15,7 @@ mydict = {'key1': 'value1', 'key2': 'value2'}
 mylist2 = [key + ':' + value for key, value in mydict.items()]
 
 # 推导式生成字典
-mydict = {i:i*i for i in (5,6,7)}
+mydict = {i: i * i for i in (5, 6, 7)}
 
 # 推导式实现字典的k-v互换
 var = {value: key for key, value in mydict.items()}
@@ -24,8 +24,7 @@ var = {value: key for key, value in mydict.items()}
 myset = {i for i in "HarryPotter" if i not in 'er'}
 
 # 推导式生成生成器
-mygenerator = {i for i in range(0,11)}
+mygenerator = {i for i in range(0, 11)}
 print(type(mygenerator))
 print(mygenerator)
 print(list(mygenerator))
-
