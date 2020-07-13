@@ -2,26 +2,37 @@
   <dictionary name="Genes">
     <words>
       <w>atag</w>
+      <w>autothrottle</w>
       <w>bdffdc</w>
       <w>chromedriver</w>
       <w>dgoogle</w>
       <w>douban</w>
+      <w>downloadermiddlewares</w>
       <w>getdetailsagain</w>
       <w>httpbin</w>
+      <w>httpcache</w>
+      <w>httpproxy</w>
       <w>itemreviewed</w>
       <w>khtml</w>
+      <w>leptonica</w>
+      <w>libpng</w>
+      <w>libtiff</w>
       <w>lxml</w>
       <w>manyan</w>
       <w>maoyan</w>
+      <w>middlewares</w>
       <w>mygenerator</w>
       <w>mylist</w>
       <w>myurl</w>
       <w>newspider</w>
+      <w>proxyspider</w>
       <w>pymysql</w>
+      <w>pytesseract</w>
       <w>robotstxt</w>
       <w>scrapy</w>
       <w>sectl</w>
       <w>sqls</w>
+      <w>tesseract</w>
       <w>testuser</w>
     </words>
   </dictionary>

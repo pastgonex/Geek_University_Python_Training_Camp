@@ -25,6 +25,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Week1_UsePythonLibrary/Wee1_Assignment/Assignment_2_maoyan/manyan_scrapy_xpath/manyan_scrapy_xpath" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week1_UsePythonLibrary/Wee1_Assignment/Assignment_2_maoyan/maoyan_scrapy_xpath" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week1_UsePythonLibrary/Wee1_Assignment/Assignment_2_maoyan/maoyan_scrapy_xpath/maoyan_scrapy_xpath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/07_Middleware_and_System_Proxy_IP/proxySpider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/08_CustomMiddleware_and_RandomProxyIP/randProxy" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Geek University Python Training Camp)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
