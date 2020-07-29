@@ -8,6 +8,7 @@
       <w>dgoogle</w>
       <w>douban</w>
       <w>downloadermiddlewares</w>
+      <w>dupefilter</w>
       <w>getdetailsagain</w>
       <w>httpbin</w>
       <w>httpcache</w>
@@ -28,6 +29,7 @@
       <w>proxyspider</w>
       <w>pymysql</w>
       <w>pytesseract</w>
+      <w>randproxy</w>
       <w>robotstxt</w>
       <w>scrapy</w>
       <w>sectl</w>

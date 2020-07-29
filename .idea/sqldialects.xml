@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Week2_MasterScrapyFrameWork/02_Use_PyMySQL/03_Db_Select.py" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Week2_反爬虫机制&amp;分布式爬虫/02_使用PyMySQL进行数据库操作/03_Db_Select.py" dialect="MySQL" />
   </component>
 </project>

@@ -27,6 +27,23 @@
       <sourceFolder url="file://$MODULE_DIR$/Week1_UsePythonLibrary/Wee1_Assignment/Assignment_2_maoyan/maoyan_scrapy_xpath/maoyan_scrapy_xpath" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/07_Middleware_and_System_Proxy_IP/proxySpider" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/08_CustomMiddleware_and_RandomProxyIP/randProxy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/09_Scattered_Crawlers/cluster" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/09_Scattered_Crawlers/Scrapy_Cluster" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/Week2_Assignment/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/Week2_Assignment/movie_spider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_MasterScrapyFrameWork/Week2_Assignment/maoyan_movie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/Week2_Assignment/maoyan_movie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/07_requests爬虫改写为Scrapy爬虫/my_attempt/my_attempt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/07_爬虫中间件&amp;系统代理IP/proxySpider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/09_XPath详解/xpath_detailed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/08_通过Scrapy爬虫爬取电影详情页信息/GetDetails" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/08_通过Scrapy爬虫爬取电影详情页信息/GetDetailsAgain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/07_requests爬虫改写为Scrapy爬虫/my_attempt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/07_requests爬虫改写为Scrapy爬虫/my_scrapy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/06_Scrapy框架结构解析/my_spiders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/Wee1_Assignment/Assignment_2_maoyan/maoyan_scrapy_xpath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/08_自定义中间件&amp;随机代理IP/randProxy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/09_分布式爬虫/Scrapy_Cluster" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Geek University Python Training Camp)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
