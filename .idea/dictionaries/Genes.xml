@@ -9,6 +9,7 @@
       <w>douban</w>
       <w>downloadermiddlewares</w>
       <w>dupefilter</w>
+      <w>fname</w>
       <w>getdetailsagain</w>
       <w>httpbin</w>
       <w>httpcache</w>
@@ -36,6 +37,8 @@
       <w>sqls</w>
       <w>tesseract</w>
       <w>testuser</w>
+      <w>typecode</w>
+      <w>writelock</w>
     </words>
   </dictionary>
 </component>
