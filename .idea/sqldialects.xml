@@ -2,5 +2,8 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Week2_反爬虫机制&amp;分布式爬虫/02_使用PyMySQL进行数据库操作/03_Db_Select.py" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Week3_多进程&amp;多线程/Week3_Assignment/Assignment02/Crawl.py" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/Week4_数据清洗与预处理/03_pandas数据导入/01_Import_Data.py" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>

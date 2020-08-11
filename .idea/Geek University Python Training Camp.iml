@@ -44,8 +44,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Week1_requests爬虫&amp;Scrapy爬虫/Wee1_Assignment/Assignment_2_maoyan/maoyan_scrapy_xpath" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/08_自定义中间件&amp;随机代理IP/randProxy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/09_分布式爬虫/Scrapy_Cluster" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week3_多进程&amp;多线程/Week3_Assignment/Assignment01" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Geek University Python Training Camp)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
   </component>
 </module>

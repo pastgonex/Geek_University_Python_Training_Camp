@@ -1,6 +1,9 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Genes">
     <words>
+      <w>addtional</w>
+      <w>amazom</w>
+      <w>anit</w>
       <w>atag</w>
       <w>autothrottle</w>
       <w>bdffdc</w>
@@ -8,14 +11,17 @@
       <w>dgoogle</w>
       <w>douban</w>
       <w>downloadermiddlewares</w>
+      <w>dtype</w>
       <w>dupefilter</w>
       <w>fname</w>
       <w>getdetailsagain</w>
+      <w>groupby</w>
       <w>httpbin</w>
       <w>httpcache</w>
       <w>httpproxy</w>
       <w>itemreviewed</w>
       <w>khtml</w>
+      <w>lagou</w>
       <w>leptonica</w>
       <w>libpng</w>
       <w>libtiff</w>
@@ -23,9 +29,11 @@
       <w>manyan</w>
       <w>maoyan</w>
       <w>middlewares</w>
+      <w>multithread</w>
       <w>mygenerator</w>
       <w>mylist</w>
       <w>myurl</w>
+      <w>ndarray</w>
       <w>newspider</w>
       <w>proxyspider</w>
       <w>pymysql</w>
@@ -37,6 +45,7 @@
       <w>sqls</w>
       <w>tesseract</w>
       <w>testuser</w>
+      <w>transcation</w>
       <w>typecode</w>
       <w>writelock</w>
     </words>
