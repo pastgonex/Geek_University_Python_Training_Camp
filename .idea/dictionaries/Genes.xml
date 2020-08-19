@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Genes">
     <words>
+      <w>abcd</w>
       <w>addtional</w>
       <w>amazom</w>
       <w>anit</w>
@@ -8,6 +9,7 @@
       <w>autothrottle</w>
       <w>bdffdc</w>
       <w>chromedriver</w>
+      <w>darkgrid</w>
       <w>dgoogle</w>
       <w>douban</w>
       <w>downloadermiddlewares</w>
@@ -19,9 +21,11 @@
       <w>httpbin</w>
       <w>httpcache</w>
       <w>httpproxy</w>
+      <w>iloc</w>
       <w>itemreviewed</w>
       <w>khtml</w>
       <w>lagou</w>
+      <w>lconf</w>
       <w>leptonica</w>
       <w>libpng</w>
       <w>libtiff</w>
@@ -30,21 +34,30 @@
       <w>maoyan</w>
       <w>middlewares</w>
       <w>multithread</w>
+      <w>mydatabase</w>
+      <w>mydatabaseuser</w>
       <w>mygenerator</w>
       <w>mylist</w>
+      <w>mypassword</w>
+      <w>mysqlclient</w>
       <w>myurl</w>
       <w>ndarray</w>
       <w>newspider</w>
+      <w>nunique</w>
       <w>proxyspider</w>
       <w>pymysql</w>
       <w>pytesseract</w>
+      <w>pythonpath</w>
       <w>randproxy</w>
       <w>robotstxt</w>
       <w>scrapy</w>
       <w>sectl</w>
+      <w>snownlp</w>
+      <w>sqilite</w>
       <w>sqls</w>
       <w>tesseract</w>
       <w>testuser</w>
+      <w>textrank</w>
       <w>transcation</w>
       <w>typecode</w>
       <w>writelock</w>
