@@ -46,7 +46,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/09_分布式爬虫/Scrapy_Cluster" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week3_多进程&amp;多线程/Week3_Assignment/Assignment01" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (Geek University Python Training Camp)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

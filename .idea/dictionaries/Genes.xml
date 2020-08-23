@@ -8,6 +8,7 @@
       <w>atag</w>
       <w>autothrottle</w>
       <w>bdffdc</w>
+      <w>booklist</w>
       <w>chromedriver</w>
       <w>darkgrid</w>
       <w>dgoogle</w>
@@ -37,10 +38,12 @@
       <w>mydatabase</w>
       <w>mydatabaseuser</w>
       <w>mygenerator</w>
+      <w>myint</w>
       <w>mylist</w>
       <w>mypassword</w>
       <w>mysqlclient</w>
       <w>myurl</w>
+      <w>myyear</w>
       <w>ndarray</w>
       <w>newspider</w>
       <w>nunique</w>
@@ -60,7 +63,9 @@
       <w>textrank</w>
       <w>transcation</w>
       <w>typecode</w>
+      <w>urlyear</w>
       <w>writelock</w>
+      <w>yearview</w>
     </words>
   </dictionary>
 </component>

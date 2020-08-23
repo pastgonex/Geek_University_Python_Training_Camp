@@ -7,5 +7,4 @@ from django.http import HttpResponse
 
 # 自定义的
 def index(request):
-    return HttpResponse("Hello Django!")
-
+    return HttpResponse("Hello Django!Hello 倪彬琪!")
