@@ -1,0 +1,9 @@
+模板变量 {{ variables }}
+
+从URL获取模板变量 {% url 'urlyear' 2020 %}
+
+读取静态资源内容 {% static "css/header.css" %}
+
+for 遍历标签 {% for type in type_list %} {% vendor %}
+
+if 判断标签 {% if name.type==type.type %} {% endif %}

@@ -16,7 +16,7 @@ $ python manage.py  shell
 
 查
 >>> Name.objects.get(id=2).name
-
+q1
 改
 >>> Name.objects.filter(name='红楼梦').update(name='石头记')
 

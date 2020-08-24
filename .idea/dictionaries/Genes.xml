@@ -9,6 +9,8 @@
       <w>autothrottle</w>
       <w>bdffdc</w>
       <w>booklist</w>
+      <w>bookname</w>
+      <w>bookslist</w>
       <w>chromedriver</w>
       <w>darkgrid</w>
       <w>dgoogle</w>
@@ -16,6 +18,7 @@
       <w>downloadermiddlewares</w>
       <w>dtype</w>
       <w>dupefilter</w>
+      <w>endfor</w>
       <w>fname</w>
       <w>getdetailsagain</w>
       <w>groupby</w>
