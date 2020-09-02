@@ -31,7 +31,7 @@ def _sentiment(text):
     return s.sentiments
 
 
-df['sentiment'] = df.shorts.apply(_sentiment)
+df['sentiment'] = df.shorts.apply(_sentiment) # 对每一行都执行
 
 # 查看结果
 df.head()

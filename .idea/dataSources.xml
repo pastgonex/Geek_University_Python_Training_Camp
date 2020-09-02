@@ -7,5 +7,27 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/django_test?serverTimezone=UTC</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="week6_assignment@localhost" uuid="2f0e1b35-a780-46ff-8fde-f7d006c9efd7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/week6_assignment?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Django db2" uuid="eef8dcb0-a214-439f-b24a-36171b2671f5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/Week6_Django_Web开发入门/18_manage.py源码分析/MyDjango/MyDjango/settings.py</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/db1?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="7a56f247-821c-4759-991b-f77a59f9013f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/Week6_Django_Web开发入门/18_manage.py源码分析/MyDjango/MyDjango/settings.py</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/django_test?serverTimezone=UTC</jdbc-url>
+    </data-source>
   </component>
 </project>

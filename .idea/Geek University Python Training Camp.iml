@@ -3,9 +3,9 @@
   <component name="FacetManager">
     <facet type="django" name="Django">
       <configuration>
-        <option name="rootFolder" value="$MODULE_DIR$/Week6_Django_Web开发入门/12_展示数据库中的内容/MyDjango" />
+        <option name="rootFolder" value="$MODULE_DIR$/Week6_Django_Web开发入门/Week6_Assignment/MyDjango" />
         <option name="settingsModule" value="" />
-        <option name="manageScript" value="manage.py" />
+        <option name="manageScript" value="" />
         <option name="environment" value="&lt;map/&gt;" />
         <option name="doNotUseTestRunner" value="false" />
         <option name="trackFilePattern" value="" />
@@ -57,6 +57,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/08_自定义中间件&amp;随机代理IP/randProxy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2_反爬虫机制&amp;分布式爬虫/09_分布式爬虫/Scrapy_Cluster" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week3_多进程&amp;多线程/Week3_Assignment/Assignment01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week6_Django_Web开发入门/Week6_Assignment/douban_comment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week6_Django_Web开发入门/Week6_Assignment/douban" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
