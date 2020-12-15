@@ -60,7 +60,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week6_Django_Web开发入门/Week6_Assignment/douban_comment" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week6_Django_Web开发入门/Week6_Assignment/douban" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

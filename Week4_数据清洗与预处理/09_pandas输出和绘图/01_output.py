@@ -34,7 +34,7 @@ inf_rep = 0
 # to_csv()
 
 # 性能
-df.to_pickle('file.pkl') # pickle的性能时excel的10倍多
+df.to_pickle('file.pkl')  # pickle的性能时excel的10倍多
 
-df.agg(sum) # 快
-df.agg(lambda x: x.sum()) # 慢
+df.agg(sum)  # 快
+df.agg(lambda x: x.sum())  # 慢

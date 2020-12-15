@@ -67,4 +67,3 @@ df4 = pd.DataFrame([
 df4.stack()
 df4.unstack()
 df4.stack().reset_index()
-

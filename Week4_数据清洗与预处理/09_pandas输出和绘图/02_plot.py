@@ -1,5 +1,7 @@
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import seaborn as sns
 
 dates = pd.date_range('20200101', periods=12)
 df = pd.DataFrame(np.random.randn(12, 4), index=dates, columns=list('ABCD'))
@@ -19,12 +21,11 @@ df
 # 2020-01-11 -0.440884  0.904307  1.338720  0.612919
 # 2020-01-12 -0.864941 -0.358934 -0.203868 -1.191186
 
-import matplotlib.pyplot as plt
 
 # print(df.index)
 plt.plot(df.index, df['A'], )  # 横 纵 坐标
 
-plt.show() # 展示图片
+plt.show()  # 展示图片
 
 plt.plot(df.index, df['A'],
          color='#FFAA00',  # 颜色
@@ -35,7 +36,6 @@ plt.plot(df.index, df['A'],
 plt.show()
 
 # seaborn其实是在matplotlib的基础上进行了更高级的API封装, 从而使绘图更容易, 更美观
-import seaborn as sns
 
 #  绘制散点图
 plt.scatter(df.index, df['A'])

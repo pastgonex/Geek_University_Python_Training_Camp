@@ -4,7 +4,7 @@ import matplotlib as plt
 import os
 
 pwd = os.path.dirname(os.path.realpath(__file__))
-book = os.path.join(pwd,'book_utf8.csv')
+book = os.path.join(pwd, 'book_utf8.csv')
 # df = pd.read_csv('book_utf8.csv)
 df = pd.read_csv(book)
 
@@ -19,15 +19,15 @@ df = pd.read_csv(book)
 df[0:3]
 
 # 增加列名
-df.columns=['star','vote','shorts']
+df.columns = ['star', 'vote', 'shorts']
 
 # 显示特定的行、列
-df.loc[0:3,['star']]
+df.loc[0:3, ['star']]
 
 # 过滤数据
-print(df['star'] =='力荐')
-print('*'*50)
-print(df[df['star']=='力荐'])
+print(df['star'] == '力荐')
+print('*' * 50)
+print(df[df['star'] == '力荐'])
 
 # 缺失数据 删除
 df.dropna()
@@ -36,7 +36,7 @@ df.dropna()
 df.groupby('star').sum()
 
 # 创建新列
-star_to_number={
+star_to_number = {
     '力荐': 5,
     '推荐': 4,
     '还行': 3,
