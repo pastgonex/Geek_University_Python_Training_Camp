@@ -16,7 +16,7 @@ try:
     btm1.click()
 
     browser.find_element_by_xpath('//*[@id="username"]').send_keys('10086@qq.com')
-    browser.find_element_by_id('password').send_keys('QQ10086')
+    browser.find_element_by_id('password').send_keys('QQ100886')
     time.sleep(1)
     browser.find_element_by_xpath('//a[contains(@class,"btn-account")]').click()
 
